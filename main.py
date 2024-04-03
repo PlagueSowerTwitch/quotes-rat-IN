@@ -5,13 +5,14 @@ def menu():
     print("1. Random quote")
     print("2. All quotes")
     print("3. Exit")
+    print("4. Add quote")
 
 def main():
     while True:
         quotes = load_quotes("quotes.txt")
         menu()
 
-        choice = input("Choose your an action (1-3): ")
+        choice = input("Choose your an action (1-6): ")
 
         if choice == "1":
             print_quote(random_quote(quotes))
@@ -20,6 +21,8 @@ def main():
         elif choice == "3":
             print("Good bye...")
             break
+        elif choice =="4":
+            print(add_quote(quotes,filename))
         else:
             print("Invalid input")
 
