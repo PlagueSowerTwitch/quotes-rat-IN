@@ -3,12 +3,10 @@
 A python program that generates programming quotes and jokes.
 
 ## Contributors
-- 'initiateur': Frederick Rat Groupe IN
-- `contributor-1`: BAR Foo Groupe IN
-- `contributor-2`: WIZZ Groupe IN 
-- `contributor-3`: TOTO Titi Groupe IN 
+- 'initiateur': Guide Frederick Groupe IN
+- `contributor-1`: Camarade Pierre-Louis Groupe IN
+- `contributor-2`: Camarade Karuran Groupe IN  
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-Lieske-IN](url-1)
+- `contributor-2`: [quotes-gajarooban-IN](url-2)
